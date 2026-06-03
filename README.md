@@ -78,5 +78,11 @@ __________________
 2: Yoshi
 3: Yoshi
 ...
-31: Available
 ```
+
+---
+
+## Academic Integrity & Credits
+
+* **Starter Code**: `Hotel.java` was provided by the course instructor (**Chris Schmidt**) as starter code for this assignment and remains unmodified.
+* **Student Implementation**: `PeriodicCustomer.java` (the concurrent client logic) and `HotelTester.java` (the multithreaded test suite) were authored by the students (**Yoshimasa Ohhata** & **Yuto Tonosaki**).
